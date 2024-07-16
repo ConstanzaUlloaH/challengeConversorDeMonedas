@@ -1,3 +1,8 @@
+import currencyEnums.CurrencyCode;
+import currencyEnums.NombrePaisDivisa;
+import services.Cambio;
+import services.ConsultaAPI;
+
 import java.util.Scanner;
 
 public class Principal {
@@ -82,13 +87,5 @@ public class Principal {
                 System.out.println(e.getMessage());
             }
         }
-//*******************************************************************************
-
-
-
-
-
-
-
     }
 }
