@@ -1,4 +1,0 @@
-paso 1 crear main en principal
-paso 2 consulta api HttpClient / Resquest / Response
-paso 3 url URI
-paso 4 adicionar libreria Gson, project structure>modules>dependencies>gson-2.10.1.jar
